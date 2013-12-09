@@ -1,4 +1,4 @@
-N39DNS
+n39dns
 ======
-
-Usage: ./n39dns.rb [IP]
+Self made dyndns with [DNSimple](https://dnsimple.com/) for Netz39 e.V.
+and some helper stuff to interface it …
